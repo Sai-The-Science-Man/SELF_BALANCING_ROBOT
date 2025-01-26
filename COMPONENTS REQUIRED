@@ -1,1 +1,9 @@
-
+-----------COMPONENTS REQUIRED-----------
+Arduino uno microcontrolller
+MPU6050 gyro and accelerometer 
+A4988 stepper driver
+Nema 17 stepper motors (4.2kg.cm)
+tyres
+screws M6, 150mm
+screws M6, 25mm
+mini breadboard 
